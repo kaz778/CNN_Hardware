@@ -23,3 +23,8 @@ Xilinx Vivado Design Suite 2020.1
 ```
 Vivado Simulator
 ```
+
+### Verilog file
+```
+CNN_test.v:testbench
+```
