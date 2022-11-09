@@ -1,4 +1,4 @@
-# 卒業研究：Convolutional Neural Networkのハードウェア化に関する量子化手法の改良
+# Convolutional Neural Networkのハードウェア化に関する量子化手法の改良
 
 
 
